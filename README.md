@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RhiaFHunte
+- 👋🏾 Hi, I’m @RhiaFHunte
 - 👀 I’m interested in tech and eventually becoming a Software Dev
 - 🌱 I’m currently learning JS, HTML, CSS
 - 💞️ I’m looking to collaborate on all things code!
