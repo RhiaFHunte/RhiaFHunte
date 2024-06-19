@@ -4,9 +4,9 @@ Hello! 👋🏾 I'm Rhia, a budding software developer with a keen interest in f
 
 ## Background and Skills
 
-👩🏾‍💻 **Tech Proficiencies**: My skill set includes JavaScript, HTML, CSS, and Bootstrap, enabling me to build responsive and user-centric web experiences.
+👩🏾‍💻 **Tech Proficiencies**: My skill set includes JavaScript, HTML, CSS, React and Bootstrap, enabling me to build responsive and user-centric web experiences.
 
-🌱 **Ongoing Learning**: The ever-evolving nature of the tech industry inspires me to keep expanding my knowledge. Next, I plan on adding React to my tech stack. My goal is to enhance my proficiency in front-end development and deepen my understanding of back-end processes, broadening my skill set and enriching my professional experience.
+🌱 **Ongoing Learning**: The evolving nature of the tech industry inspires me to keep expanding my knowledge. So I've most recently added React to my tech stack. My goal is to enhance my proficiency in web development and deepen my understanding of back-end processes, broadening my skill set and enriching my professional experience.
 
 ## Collaboration Opportunities
 
