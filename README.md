@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I’m Rhia – Aspiring Front-End Developer
+# 👋🏾 Hi, I’m Rhia – Aspiring Web Developer
 
 Welcome to my GitHub! I'm currently exploring the world of web development while transitioning from a background in digital content and eCommerce. I'm passionate about creating user-friendly, engaging web experiences and excited to keep building on my skills as I grow in this field.
 
