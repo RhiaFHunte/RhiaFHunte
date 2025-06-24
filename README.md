@@ -1,27 +1,22 @@
-# Welcome to My GitHub Profile - @RhiaFHunte
+# 👋🏾 Hi, I’m Rhia – Aspiring Front-End Developer
 
-Hello! 👋🏾 I'm Rhia, a budding software developer with a keen interest in front-end technologies and a background in content management systems and eCommerce site management. I'm currently navigating the transition into tech, committed to deepening my expertise and contributing to innovative projects.
+Welcome to my GitHub! I'm currently exploring the world of web development while transitioning from a background in digital content and eCommerce. I'm passionate about creating user-friendly, engaging web experiences and excited to keep building on my skills as I grow in this field.
 
-## Background and Skills
+## 🌱 Learning & Development
 
-👩🏾‍💻 **Tech Proficiencies**: My skill set includes JavaScript, HTML, CSS, React and Bootstrap, enabling me to build responsive and user-centric web experiences.
+I've been learning JavaScript, HTML, CSS, and React in my spare time through self-study using platforms like Codecademy and YouTube. I'm also getting comfortable with tools like VS Code, Git, and GitHub. Right now, I’m focused on improving my front-end skills and starting to learn more about back-end development.
 
-🌱 **Ongoing Learning**: The evolving nature of the tech industry inspires me to keep expanding my knowledge. So I've most recently added React to my tech stack. My goal is to enhance my proficiency in web development and deepen my understanding of back-end processes, broadening my skill set and enriching my professional experience.
+## 💡 Background and Skills
 
-## Collaboration Opportunities
+I come from a content and eCommerce background, which gives me a good sense of how people interact with websites and what makes digital experiences work well. I'm organised, curious, and love solving problems, and I’m keen to continue my learning journey.
 
-I'm open to collaborating on projects that provide opportunities for learning and growth. My experience in content management and eCommerce platforms offers a unique perspective that I'm eager to apply to new projects.
+## 🤝🏾 Let’s Connect!
 
-💻 **Interested in**: Joining projects that allow me to leverage my existing skills while exploring new technologies and practices.
+I'm open to beginner-friendly projects, pair programming, or just connecting with others who are also learning or switching into tech.
 
-📫  **Connect With Me**: For collaborations or networking, feel free to reach out through my LinkedIn profile: [Rhia FHunte](https://www.linkedin.com/in/rhiahunte/).
+📫 You can find me on LinkedIn at [Rhia Hamilton](https://www.linkedin.com/in/rhiahunte/) if you’d like to connect or collaborate.
 
 ---
 
-Thank you for visiting my profile. I'm enthusiastic about the potential to connect with others in the tech community, share insights, and work together on fun projects. 
-
-<!---
-RhiaFHunte/RhiaFHunte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by! I'm excited to keep learning, keep building, and be part of the tech community. 💻✨
 
